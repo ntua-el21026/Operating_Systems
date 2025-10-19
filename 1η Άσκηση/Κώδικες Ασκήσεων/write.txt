@@ -1,0 +1,1 @@
+The character 'c' appears 800 times in the file 'read.txt'.
